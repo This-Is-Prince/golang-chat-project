@@ -1,0 +1,3 @@
+interface ChatInputType {}
+
+export { ChatInputType };
