@@ -1,4 +1,6 @@
-const ChatHistory = () => {
+import { FC } from "react";
+
+const ChatHistory: FC<{ chatHistory: any[] }> = () => {
   return <div>ChatHistory</div>;
 };
 
